@@ -1,7 +1,7 @@
 # 👋 Hi there! Welcome to my GitHub profile
 
 ## 🧑‍🎓 About Me
-I am a **Physics student** at the University of Bologna (Unibo) 📚, where I dive into the wonders of the universe, from the smallest particles to the vast cosmos. I live in **Forlì, Romagna** 🐓.
+I am a Italian🤌 **Physics student** at the University of Bologna (Unibo) 📚, where I dive into the wonders of the universe, from the smallest particles to the vast cosmos. I live in **Forlì, Romagna** 🐓.
 
 ## 🌱 My Interests
 - **Curiosity-Driven**: I'm always eager to learn new things and explore the unknown.
