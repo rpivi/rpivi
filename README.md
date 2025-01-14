@@ -6,7 +6,7 @@ I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bolog
 ## 🌱 My Interests
 - **Curiosity-Driven**: I'm always eager to learn new things and explore the unknown.
 - **Programming Enthusiast**: I enjoy coding in **C++**.
-- **Physics & Beyond**: My main focus is physics, but I'm also fascinated by related fields and not like poetry and literature.
+- **Physics & Beyond**: My main focus is physics, but I'm fascinated by related fields. I also like poetry and literature.
 
 ## 🛠️ Skills
 - **C++ Programming**: Experience in developing simulations, and scientific computations.
