@@ -1,4 +1,4 @@
-# 👋 Hi there! Welcome to my GitHub profile
+# ![Animated Hand](https://hand.svg) Hi there! Welcome to my GitHub profile
 
 ## 🧑‍🎓 About Me
 I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bologna (Unibo) 📚, where I dive into the wonders of the universe, from the smallest particles to the vast cosmos. I live in **Forlì, Romagna** 🐓.
