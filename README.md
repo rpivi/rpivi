@@ -1,4 +1,4 @@
-# Hi there! ![Animated Hand](hand.svg)  
+## Hi there! ![Animated Hand](hand.svg)  
 
 # 🧑‍🎓 About Me
 I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bologna (Unibo) 📚, where I dive into the wonders of the universe, from the smallest particles to the vast cosmos. I live in **Forlì, Romagna** 🐓.
