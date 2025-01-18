@@ -2,7 +2,7 @@
   <!-- Griglia -->
   <defs>
     <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
-      <path d="L 0 0 M 50 0 L 50 50 M 0 50 L 50 50" fill="none" stroke="lightgray" stroke-width="1" />
+      <path d="L 0 50 M 50 0 L 50 50 M 0 50 L 50 50" fill="none" stroke="lightgray" stroke-width="1" />
     </pattern>
   </defs>
   <rect width="100%" height="100%" fill="url(#grid)" />
@@ -18,7 +18,7 @@
   " fill="none" stroke="none" />
 
   <!-- Serpentino -->
-  <circle r="6" fill="lightgreen">
+  <circle r="3" fill="yellow">
     <animateMotion dur="7s" repeatCount="indefinite">
       <mpath href="#snake-path" />
     </animateMotion>
@@ -48,7 +48,7 @@
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
-  <circle r="3" fill="yellow">
+  <circle r="6" fill="lightgreen">
     <animateMotion dur="7s" repeatCount="indefinite" begin="-0.6s">
       <mpath href="#snake-path" />
     </animateMotion>
