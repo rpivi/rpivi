@@ -48,7 +48,7 @@
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
-  <circle r="6" fill="lightgreen">
+  <circle r="3" fill="yellow">
     <animateMotion dur="7s" repeatCount="indefinite" begin="-0.6s">
       <mpath href="#snake-path" />
     </animateMotion>
