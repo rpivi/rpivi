@@ -2,7 +2,7 @@
   <!-- Griglia -->
   <defs>
     <pattern id="grid" width="50" height="50" patternUnits="userSpaceOnUse">
-      <path d="M 50 0 L 50 50 M 0 50 L 50 50" fill="none" stroke="lightgray" stroke-width="1" />
+      <path d="L 0 0 M 50 0 L 50 50 M 0 50 L 50 50" fill="none" stroke="lightgray" stroke-width="1" />
     </pattern>
   </defs>
   <rect width="100%" height="100%" fill="url(#grid)" />
