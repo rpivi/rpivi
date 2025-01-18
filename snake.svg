@@ -21,47 +21,47 @@
 
   <!-- Serpentino -->
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite">
+    <animateMotion dur="7s" repeatCount="indefinite">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.1s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.1s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.2s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.2s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.3s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.3s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.4s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.4s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.5s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.5s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.6s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.6s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="6" fill="lightgreen">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.7s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.7s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
   <circle r="14" fill="green">
-    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.8s">
+    <animateMotion dur="7s" repeatCount="indefinite" begin="-0.8s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
