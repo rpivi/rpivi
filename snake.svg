@@ -18,20 +18,40 @@
   " fill="none" stroke="none" />
 
   <!-- Serpentino -->
-  <circle r="10" fill="green">
+  <circle r="15" fill="green">
     <animateMotion dur="6s" repeatCount="indefinite">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
 
   <!-- Coda del serpentino -->
-  <circle r="8" fill="lightgreen">
+  <circle r="6" fill="lightgreen">
     <animateMotion dur="6s" repeatCount="indefinite" begin="-0.2s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
-  <circle r="6" fill="yellowgreen">
+  <circle r="6" fill="lightgreen">
     <animateMotion dur="6s" repeatCount="indefinite" begin="-0.4s">
+      <mpath href="#snake-path" />
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="lightgreen">
+    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.5s">
+      <mpath href="#snake-path" />
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="lightgreen">
+    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.6s">
+      <mpath href="#snake-path" />
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="lightgreen">
+    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.7s">
+      <mpath href="#snake-path" />
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="lightgreen">
+    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.8s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
