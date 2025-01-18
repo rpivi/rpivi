@@ -18,15 +18,23 @@
   " fill="none" stroke="none" />
 
   <!-- Serpentino -->
-  <circle r="15" fill="green">
+  <circle r="6" fill="lightgreen">
     <animateMotion dur="6s" repeatCount="indefinite">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
-
-  <!-- Coda del serpentino -->
+  <circle r="6" fill="lightgreen">
+    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.1s">
+      <mpath href="#snake-path" />
+    </animateMotion>
+  </circle>
   <circle r="6" fill="lightgreen">
     <animateMotion dur="6s" repeatCount="indefinite" begin="-0.2s">
+      <mpath href="#snake-path" />
+    </animateMotion>
+  </circle>
+  <circle r="6" fill="lightgreen">
+    <animateMotion dur="6s" repeatCount="indefinite" begin="-0.3s">
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
@@ -50,7 +58,7 @@
       <mpath href="#snake-path" />
     </animateMotion>
   </circle>
-  <circle r="6" fill="lightgreen">
+  <circle r="14" fill="green">
     <animateMotion dur="6s" repeatCount="indefinite" begin="-0.8s">
       <mpath href="#snake-path" />
     </animateMotion>
