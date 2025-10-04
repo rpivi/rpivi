@@ -7,7 +7,7 @@ I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bolog
 
 # 🛠️ Skills
 - **C++ Programming**: Experience in developing simulations, and scientific computations.
-- **Python Programming** : I'm a beginner.
+- **Python Programming** : I'm learning data science.
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img width=50.3% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpivi&theme=dark&layout=donut&langs_count=7&hide=tex" /></a>
