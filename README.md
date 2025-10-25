@@ -6,7 +6,7 @@ I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bolog
 - **Physics & Beyond**: My main focus is physics, but I'm fascinated by related fields. I also like poetry and literature.
 
 # 🛠️ Skills
-- **C++ Programming**: Experience in developing simulations, and scientific computations.
+- **C++ Programming**: Experience in developing simulations.
 - **Python Programming** : I'm learning data science.
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
