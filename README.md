@@ -9,8 +9,7 @@ I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bolog
 - **C++ Programming**: Experience in developing simulations.
 - **Python Programming** : I'm learning data science.
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=50.3% src="https://github-readme-stats.vercel.app/api/top-langs/?username=rpivi&theme=dark&layout=donut&langs_count=7&hide=tex" /></a>
+![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rpivi&show_icons=true&theme=radical)
 
 # 📬 Get in touch
 
