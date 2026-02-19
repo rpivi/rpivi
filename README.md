@@ -7,7 +7,7 @@ I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bolog
 
 # 🛠️ Skills
 - **C++ Programming**: Experience in developing simulations.
-- **Python Programming** : I'm learning data science.
+- **Python Programming** : I like Data Science and simulation.
   
 # 📬 Get in touch
 
