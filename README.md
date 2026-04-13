@@ -15,4 +15,6 @@ I am Riccardo Pivi an Italian🤌 **Physics student** at the University of Bolog
 [![Email Me](https://img.shields.io/badge/Email%20Me-orange)](mailto:riccardo.pivi@studio.unibo.it)
 
   ![Snake](snake.svg)
-# One random step a time!
+<p align="center">
+  one random step at a time: trust the process
+</p>
